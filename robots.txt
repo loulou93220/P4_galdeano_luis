@@ -1,0 +1,4 @@
+User-agent: *
+ Disallow: /intranet/
+sitemap: https://loulou93220.github.io/P4_galdeano_luis/sitemap.xml
+
